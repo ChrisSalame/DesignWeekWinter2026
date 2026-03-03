@@ -5,7 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/X2/LIPINBPY6FXEOWCTOFUVT3.uasset"
+				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/X2/LIPINBPY6FXEOWCTOFUVT3.uasset",
+				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset"
 			]
 		}
 	]
