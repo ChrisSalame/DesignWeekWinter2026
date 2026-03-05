@@ -1,6 +1,7 @@
-2026/03/05-11:11:52.650 64d0 Log #6: 6 ops saved to Table #7 OK
-2026/03/05-11:11:52.652 64d0 Archiving C:\Users\pocockm\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
-2026/03/05-11:11:52.653 64d0 Table #4: 2 entries OK
-2026/03/05-11:11:52.653 64d0 Table #7: 6 entries OK
-2026/03/05-11:11:52.657 64d0 Archiving C:\Users\pocockm\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/03/05-11:11:52.663 64d0 **** Repaired leveldb C:\Users\pocockm\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 408 bytes. Some data may have been lost. ****
+2026/03/05-11:52:23.331 4f58 Log #9: 1 ops saved to Table #10 OK
+2026/03/05-11:52:23.333 4f58 Archiving C:\Users\orozcolv\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database/000009.log: OK
+2026/03/05-11:52:23.333 4f58 Table #4: 2 entries OK
+2026/03/05-11:52:23.333 4f58 Table #7: 6 entries OK
+2026/03/05-11:52:23.333 4f58 Table #10: 1 entries OK
+2026/03/05-11:52:23.338 4f58 Archiving C:\Users\orozcolv\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/05-11:52:23.343 4f58 **** Repaired leveldb C:\Users\orozcolv\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database; recovered 3 files; 570 bytes. Some data may have been lost. ****
