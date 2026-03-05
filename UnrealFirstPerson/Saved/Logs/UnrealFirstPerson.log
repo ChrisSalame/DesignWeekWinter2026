@@ -3801,3 +3801,6 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.05-18.58.07:401][561]RenderDocPlugin: plugin has been unloaded.
 [2026.03.05-18.58.07:401][561]LogXGEController: Cleaning working directory: C:/Users/salamec/AppData/Local/Temp/UnrealXGEWorkingDir/
 [2026.03.05-18.58.07:403][561]LogPakFile: Destroying PakPlatformFile
+[2026.03.05-18.58.07:725][561]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.05-18.58.07:770][561]LogExit: Exiting.
+[2026.03.05-18.58.07:794][561]Log file closed, 03/05/26 13:58:07
