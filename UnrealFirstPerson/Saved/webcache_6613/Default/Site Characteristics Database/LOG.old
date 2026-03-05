@@ -1,3 +1,6 @@
-2026/03/04-16:26:31.641 5c28 Reusing MANIFEST C:\Users\salamec\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
-2026/03/04-16:26:31.642 5c28 Recovering log #6
-2026/03/04-16:26:31.642 5c28 Reusing old log C:\Users\salamec\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database/000006.log 
+2026/03/05-11:11:52.650 64d0 Log #6: 6 ops saved to Table #7 OK
+2026/03/05-11:11:52.652 64d0 Archiving C:\Users\pocockm\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database/000006.log: OK
+2026/03/05-11:11:52.653 64d0 Table #4: 2 entries OK
+2026/03/05-11:11:52.653 64d0 Table #7: 6 entries OK
+2026/03/05-11:11:52.657 64d0 Archiving C:\Users\pocockm\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
+2026/03/05-11:11:52.663 64d0 **** Repaired leveldb C:\Users\pocockm\Documents\GitHub\DesignWeekWinter2026\UnrealFirstPerson\Saved\webcache_6613\Default\Site Characteristics Database; recovered 2 files; 408 bytes. Some data may have been lost. ****

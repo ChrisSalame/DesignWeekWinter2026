@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/X2/LIPINBPY6FXEOWCTOFUVT3.uasset",
+				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset",
+				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/N3/FQV2FW1I8D4Z06TF38UTCR.uasset",
+				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/QB/9YXJRQGLS33G0BEH37USBX.uasset",
+				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/HH/BIAWP2Z8HW32809JWMRLU3.uasset",
 				"C:/Users/salamec/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/salamec/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/3/74/USA6YFP3Y0W5WP7XR0Z2I6.uasset",
 				"C:/Users/salamec/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/9X/SSDB4FJCANWIYX0RLFI917.uasset",
@@ -65,9 +71,6 @@
 				"C:/Users/salamec/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/D/7T/6RQ8P7CVO48X9I3ABIG29Z.uasset",
 				"C:/Users/salamec/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/SuckObjects/dust3.uasset",
 				"C:/Users/salamec/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/E/GJ/H066I8E10IC88246RH176N.uasset",
-				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/X2/LIPINBPY6FXEOWCTOFUVT3.uasset",
-				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/4/XL/U0BAKX7624EKY7QR8W4QDX.uasset",
 				"C:/Users/pocockm/Documents/GitHub/DesignWeekWinter2026/UnrealFirstPerson/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/1X/SN5R6LIXKDO3W51X1TVUTZ.uasset"
 			]
 		}
